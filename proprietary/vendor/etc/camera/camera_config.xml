@@ -107,8 +107,8 @@ LensInfo : Information of the lens present in the module.
       <FocalLength>3.86</FocalLength>
       <FNumber>2.2</FNumber>
       <TotalFocusDistance>0.15</TotalFocusDistance>
-      <HorizontalViewAngle>78.3</HorizontalViewAngle>
-      <VerticalViewAngle>78.3</VerticalViewAngle>
+      <HorizontalViewAngle>66.1</HorizontalViewAngle>
+      <VerticalViewAngle>52.1</VerticalViewAngle>
       <MinFocusDistance>0.15</MinFocusDistance>
       <MaxRollDegree>1.0</MaxRollDegree>
       <MaxPitchDegree>1.0</MaxPitchDegree>
@@ -135,8 +135,8 @@ LensInfo : Information of the lens present in the module.
       <FocalLength>3.86</FocalLength>
       <FNumber>2.2</FNumber>
       <TotalFocusDistance>0.15</TotalFocusDistance>
-      <HorizontalViewAngle>78.3</HorizontalViewAngle>
-      <VerticalViewAngle>78.3</VerticalViewAngle>
+      <HorizontalViewAngle>66.1</HorizontalViewAngle>
+      <VerticalViewAngle>52.1</VerticalViewAngle>
       <MinFocusDistance>0.15</MinFocusDistance>
       <MaxRollDegree>1.0</MaxRollDegree>
       <MaxPitchDegree>1.0</MaxPitchDegree>
